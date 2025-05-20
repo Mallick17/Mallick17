@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Gyanaranjan Mallick
 
 🚀 Junior DevOps Engineer | Cloud Infrastructure Specialist | Automation Enthusiast  
-📍 Bangalore, India | 🕒 IST (UTC+5:30)
+📍 Karur, Tamil Nadu, India | 🕒 IST (UTC+5:30)
 
 ---
 
