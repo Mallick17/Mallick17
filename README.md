@@ -5,7 +5,7 @@
 🚀 **DevOps Engineer | Cloud Infra Specialist | CI/CD Automator**  
 📍 _Karur, Tamil Nadu, India_ | 🕒 _IST (UTC+5:30)_
 
-> _"Through discipline, comes freedom."_ — Anime DevOps edition
+> _"Through discipline, comes freedom."_ 
 
 ---
 
