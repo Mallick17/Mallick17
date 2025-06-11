@@ -1,64 +1,86 @@
-# 👋 Hello, I'm Gyanaranjan Mallick
+<img align="right" src="https://i.pinimg.com/originals/3f/0d/42/3f0d42b1e9483f1d8dc010ab9337b6d1.gif" width="250" />
 
-🚀 Junior DevOps Engineer | Cloud Infrastructure Specialist | Automation Enthusiast  
-📍 Karur, Tamil Nadu, India | 🕒 IST (UTC+5:30)
+# 👋 こんにちは, I'm Gyanaranjan Mallick
+
+🚀 **DevOps Engineer | Cloud Infra Specialist | CI/CD Automator**  
+📍 _Karur, Tamil Nadu, India_ | 🕒 _IST (UTC+5:30)_
+
+> _"Through discipline, comes freedom."_ — Anime DevOps edition
 
 ---
 
 ## 🧑‍💻 About Me
 
-I'm a passionate DevOps Engineer with a strong focus on automating infrastructure, optimizing CI/CD pipelines, and deploying scalable applications on AWS. Over the past year, I've:
+I'm a DevOps Engineer who brings anime-level precision to cloud architecture, automation, and scalable deployments.
 
-- Automated infrastructure provisioning using **Terraform**.
-- Deployed containerized applications with **Docker** and **ECS (EC2 launch type)**.
-- Implemented CI/CD pipelines using **AWS CodePipeline**, **CodeBuild**, and **CodeDeploy**.
-- Managed databases with **Amazon RDS/Aurora**.
-- Worked extensively with **Ruby on Rails** applications in production environments.
-
----
-
-## 🛠️ Skills & Technologies
-
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![ECS](https://img.shields.io/badge/-Amazon%20ECS-FF9900?style=flat&logo=amazon-ecs&logoColor=white)
-![CodePipeline](https://img.shields.io/badge/-AWS%20CodePipeline-FF4F8B?style=flat&logo=aws-codepipeline&logoColor=white)
-![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000?style=flat&logo=ruby-on-rails&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+- ⚙️ Automate all the things with **Terraform**  
+- 🐳 Container wizard using **Docker** & **Amazon ECS (EC2 Launch Type)**  
+- 🚀 Pipeline perfectionist with **AWS CodePipeline**, **CodeBuild**, **CodeDeploy**  
+- 💎 Run **Ruby on Rails** apps in production, integrated with **Redis** and **PostgreSQL**  
+- 📊 Monitor with **CloudWatch**, **Prometheus**, **Grafana**  
+- ☁️ AWS-native mindset with IaC and full-cycle CI/CD fluency
 
 ---
 
-## 📈 GitHub Stats
+## ⚔️ Tech Stack & Weapons of Choice
 
-![Gyanaranjan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mallick17&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mallick17&layout=compact&theme=radical)
-
----
-
-## 📫 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/gyanaranjan-mallick)
-- [Instagram](https://www.instagram.com/_z.o.o.m.e.r_/)
-- [Facebook](https://www.facebook.com/gyanaranjan.mallick17)
-- [ORCID](https://orcid.org/0009-0008-6691-5832)
-
----
-
-## 🌱 Currently Learning
-
-- Advanced Kubernetes deployments and management.
-- Monitoring and logging with Prometheus and Grafana.
-- Exploring serverless architectures with AWS Lambda.
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ECS-FF9900?style=for-the-badge&logo=amazon-ecs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CodePipeline-FF4F8B?style=for-the-badge&logo=aws-codepipeline&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+</p>
 
 ---
 
-## 💡 Fun Fact
+## 🏆 GitHub Trophies
 
-I'm a tech enthusiast who loves automating repetitive tasks and optimizing workflows. When I'm not coding, I enjoy exploring new technologies and contributing to open-source projects.
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mallick17&theme=tokyonight&margin-w=10&no-bg=true&no-frame=true" />
+</p>
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mallick17&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mallick17&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gyanaranjan-mallick)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/_z.o.o.m.e.r_/)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/gyanaranjan.mallick17)
+[![ORCID](https://img.shields.io/badge/ORCID-000000?style=flat-square&logo=orcid&logoColor=green)](https://orcid.org/0009-0008-6691-5832)
+
+---
+
+## 🌱 Currently Leveling Up
+
+- ☸️ Mastering **Kubernetes** & Helm for production-grade container orchestration  
+- 📈 Building intuitive dashboards with **Prometheus** & **Grafana**  
+- 🧬 Exploring **serverless architecture** with AWS Lambda, SQS, SNS  
+- 📜 Writing Terraform modules and reusable pipelines
+
+---
+
+## 💬 Fun Fact
+
+> “I treat every terminal session like a boss battle. 🧠 + ⚙️ = DevOps Superpower.”
+
+Outside tech, I dive into anime, explore tech memes, and craft automation scripts for fun.  
+Let’s build something cool together! 🌈
+
+---
+
+_Thanks for stopping by! ⭐ Don’t forget to check my pinned repositories!_
