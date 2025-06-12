@@ -1,6 +1,6 @@
 <img align="right" src="https://i.pinimg.com/originals/3f/0d/42/3f0d42b1e9483f1d8dc010ab9337b6d1.gif" width="250" />
 
-# 👋 こんにちは。, I'm Gyanaranjan Mallick
+# 👋 こんにちは。,  I'm Gyanaranjan Mallick
 
 🚀 **DevOps Engineer | Cloud Infra Specialist | CI/CD Automator**  
 📍 _Karur, Tamil Nadu, India_ | 🕒 _IST (UTC+5:30)_
