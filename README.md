@@ -11,7 +11,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a DevOps Engineer who brings anime-level precision to cloud architecture, automation, and scalable deployments.
+I'm a DevOps Engineer who brings precision to cloud architecture, automation, and scalable deployments.
 
 - ⚙️ Automate all the things with **Terraform**  
 - 🐳 Container wizard using **Docker** & **Amazon ECS (EC2 Launch Type)**  
