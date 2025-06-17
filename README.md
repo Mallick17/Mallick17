@@ -85,10 +85,8 @@ Let’s build something cool together! 🌈
 
 ## 🎓 My Accreditation
 
-<p align="center">
-  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="cec480c6-3e5c-4dca-8771-9c16ea95bf09" data-share-badge-host="https://www.credly.com"></div>
-  <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-</p>
+[![Credly Badge](URL_OF_YOUR_BADGE_IMAGE)]([https://www.credly.com/badges/cec480c6-3e5c-4dca-8771-9c16ea95bf09](https://www.credly.com/badges/cec480c6-3e5c-4dca-8771-9c16ea95bf09/public_url))
+
 
 
 _Thanks for stopping by! ⭐ Don’t forget to check my pinned repositories!_
