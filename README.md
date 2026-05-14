@@ -8,12 +8,6 @@
 
 > _"Through discipline, comes freedom."_ — and through automation, comes sleep. 😴
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Mallick17&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/badge/Open%20to-Work-brightgreen?style=flat" alt="open to work" />
-  <img src="https://img.shields.io/badge/Focus-DevOps%20%7C%20Cloud%20%7C%20SRE-blue?style=flat" alt="focus" />
-</p>
-
 ---
 
 ## 🧑‍💻 About Me
